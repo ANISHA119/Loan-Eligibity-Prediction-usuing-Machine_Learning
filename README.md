@@ -8,12 +8,12 @@ The results of every applicant can be stored in any file using the decision tree
 
 Machine Learning algorithms used:-
 
-  1.RandomForestClassifier Algorithm
+    1.RandomForestClassifier Algorithm
 
-  2.KNeighborsClassifier Algorithm
+    2.KNeighborsClassifier Algorithm
 
-  3.DecisionTreeClassifier Algorithm
+    3.DecisionTreeClassifier Algorithm
 
-  4.Gaussian Naive Bayes Algorithm
+    4.Gaussian Naive Bayes Algorithm
 
 **Accuracy achieved: 77% (Random Forest)**
