@@ -4,7 +4,8 @@ Banks primarily generate their revenue through loans. A significant portion of a
 I've used a variety of Machine Learning algorithms, implemented in Python, to predict the loan eligibility of a candidate. This is a classification problem, with input features as a variety of parameters, and the target variable as a binary variable, predicting whether loan eligibility is present or not.
 
 The results of every applicant can be stored in any file using the decision tree technique. We'll determine whether the person is youthful, middle-aged, or elderly. This is how we will issue a loan.
-Machine Learning algorithms used:
+
+Machine Learning algorithms used:-
 
 1.RandomForestClassifier Algorithm
 
